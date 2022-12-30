@@ -12,4 +12,4 @@ you can see our repositories by going into the people section.
 
 # contact
 
-you can contact us by email at binaryb@gmail.com
+you can contact us by email at binaryb@gmail.com 
