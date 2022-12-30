@@ -7,11 +7,12 @@ this group was made in 2023. we are web developers so, in this account, we put o
 
 most of our projects are with `Angular`.
 <img src="https://github.com/binarybeasts2023/.github/blob/main/profile/angular.jpg">
- so you can clone into them and run them with `npm start`
 
 # team
 
-you can see our repositories by going into the `people section`.
+you can see our team by going into the `people section`.
+<img src="https://github.com/binarybeasts2023/.github/blob/main/profile/team.png">
+ all of us have an account that you can see.
 
 # contact
 
