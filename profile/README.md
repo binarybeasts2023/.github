@@ -11,7 +11,7 @@ most of our projects are with `Angular`.
 # team
 
 you can see our team by going into the `people section`.
-<img src="https://github.com/binarybeasts2023/.github/blob/main/profile/team.png">
+<img src="https://github.com/binarybeasts2023/.github/blob/main/profile/team.jpg">
  all of us have an account that you can see.
 
 # contact
